@@ -59,9 +59,9 @@
 
 ## 📊 GitHub Stats
 
-![Ajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajitjaat94\&show_icons=true\&theme=tokyonight)
+![Ajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajitjaat94&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajitjaat94\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajitjaat94&layout=compact&theme=tokyonight)
 
 ---
 
