@@ -1,8 +1,8 @@
 # Hi, I'm Ajit 👋
 
 💻 Full Stack Developer
-🚀 Building scalable web applications
-🔥 Focused on backend systems, clean architecture, and real-world problem solving
+🚀 Building production-ready web application
+🔥 Specialized in backend system & authentication
 
 ---
 
@@ -20,9 +20,9 @@
 
 ## 🧠 What I Do
 
-* Build full stack applications (Frontend + Backend)
+* Eduction Platform (Full Stack)
+* Improving backend scalability
 * Design REST APIs using Node.js & Express
-* Implement authentication systems (JWT, email verification)
 * Work with MongoDB for scalable data handling
 * Deploy applications on cloud platforms
 
